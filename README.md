@@ -5,6 +5,7 @@
 ![python](https://img.shields.io/badge/Python-3.6%2B-orange)
 ![tkinter](https://img.shields.io/badge/tkinter-built--in-lightgrey)
 ![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-brightgreen)
+![icon](asset/icon.png)
 
 ---
 
